@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 <h1>hello</h1>
+=======
+<h1>hello</h1>
+<h2>world</h2>
+>>>>>>> 4de4bde7ac1df17f43e970c91c39243efa91d0d6
